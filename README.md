@@ -1,16 +1,14 @@
-# Foodbase
+# React-Joke-Generator
 
 ## Description
-A web application [hosted on Netlify](https://foodbase-rrh2023.netlify.app/) where users can search for any food they would like and nutrional information regardint that particular food would be displayed. 
+A React.js project that fetches data from the ["Official Joke API"]("https://official-joke-api.appspot.com/random_joke") and displays a joke. 
 
 Information shared included:
-* Calories 
-* Fat
-* Carbohydrates
-* Protein
+* Joke Setup 
+* Punchline
 
 ## Usage
-Users can search for any food they would like in the input form.
+Upon each refresh of the web page, a new joke is rendered
 
 ## Technologies Used
 * HTML
@@ -20,7 +18,5 @@ Users can search for any food they would like in the input form.
 
 ## Acknowledgement
 
-U.S. Department of Agriculture 'FoodData Central API': https://fdc.nal.usda.gov/api-guide.html
-
-Netlify: https://www.netlify.com/
+"Official Joke API": https://official-joke-api.appspot.com/random_joke
 
